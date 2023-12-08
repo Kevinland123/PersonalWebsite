@@ -57,11 +57,12 @@ const Resume = () => {
                 <h1 className="text-2xl font-bold">Experience</h1>
 
                 {resume.experiences.map(
-                  ({ id, dates, type, position, bullets }) => (
+                  ({ id, dates, location, company, position, bullets }) => (
                     <ProjectResume
                       key={id}
                       dates={dates}
-                      type={type}
+                      location={location}
+                      company={company}
                       position={position}
                       bullets={bullets}
                     ></ProjectResume>
@@ -75,6 +76,9 @@ const Resume = () => {
                   <h3 className="text-sm opacity-75">
                     {resume.education.universityDate}
                   </h3>
+                  <p className="text-sm mt-2 opacity-50">
+                    {resume.education.universityDegree}
+                  </p>
                   <p className="text-sm mt-2 opacity-50">
                     {resume.education.universityPara}
                   </p>
