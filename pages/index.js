@@ -63,6 +63,8 @@ export default function Home() {
           handleWorkScroll={handleWorkScroll}
           handleAboutScroll={handleAboutScroll}
         />
+
+        {/* 4 Title Texts */}
         <div className="laptop:mt-20 mt-10">
           <div className="mt-5">
             <h1
@@ -97,20 +99,19 @@ export default function Home() {
         {/* About */}
         <div className="flex laptop:mt-10 p-2 laptop:p-0" ref={aboutRef}>
           <p className="tablet:m-10 mt-2 text-lg laptop:text-2xl w-full laptop:w-3/5">
-            Hey there, I'm Kevin! I'm an incoming Software Development Engineer at Amazon in the Detroit location
-            and a current Web Developer/Content Writer at <a className="underline" href="https://zerowaste.org/">ZeroWaste.Org</a>.
-            I graduated with a B.S. in Computer Science and minored in Entrepreneurship and Music.<br /><br />
+            I'm an incoming Software Development Engineer at Amazon in the Detroit location
+            and a current Web Developer/Content Writer at <a className="underline" target="_blank" href="https://zerowaste.org/">Zero Waste</a>.
+            I graduated with a B.S. in Computer Science and minors in Entrepreneurship and Music.<br /><br />
 
-            During my time at Amazon as an SDE intern, I gained valuable experience in <b>Web Development</b>, further enhancing my
+            During my time at Amazon as an SDE intern, I gained valuable experience as a <b>Web Developer</b>, further enhancing my
             skills in full-stack development. With a strong background in full-stack development including my past internships and
             contributions to open-source projects in React and Python, I am ready to tackle challenging
             projects and make a global imapct.<br /><br />
 
-            I'm a classically trained <b>musician</b> and have performed in various locations including California and Riga, Latvia.
-            To continue my musical journey, I recently created a <a className="underline" href="https://www.tiktok.com/@projectorpianist?_t=8i05SbYzr5C&_r=1">Tiktok</a> account
+            I'm a classically trained <b>musician</b> and have performed in various locations including China, California, and Latvia.
+            To continue my musical journey, I recently created a <a className="underline" target="_blank" href="https://www.tiktok.com/@projectorpianist?_t=8i05SbYzr5C&_r=1">TikTok</a> account
             posting various piano covers. I am also a <b>foodie</b> and love to try new foods and restaurants. You can find my reviews on Yelp,
-            Beli, or reviews that are specific to the complimentary bread service on
-            my bread-rating <a className="underline" href="https://www.instagram.com/kzeatsbread/?hl=en">Instagram</a> account.
+            Beli, or my bread-rating <a className="underline" target="_blank" href="https://www.instagram.com/kzeatsbread/?hl=en">Instagram</a> account.
           </p>
           <div className="laptop:flex-shrink-0 laptop:w-2/5">
             <img
@@ -120,7 +121,6 @@ export default function Home() {
             />
           </div>
         </div>
-
 
         {/* Projects */}
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
@@ -139,7 +139,7 @@ export default function Home() {
         </div>
 
         {/* Services */}
-        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
+        {/* <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
           <h1 className="tablet:m-10 text-2xl text-bold">Services.</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
             {data.services.map((service, index) => (
@@ -150,7 +150,7 @@ export default function Home() {
               />
             ))}
           </div>
-        </div>
+        </div> */}
 
         {/* This button should not go into production */}
         {process.env.NODE_ENV === "development" && (

@@ -4,15 +4,15 @@
   "headerTaglineTwo": "I'm Kevin Zhu",
   "headerTaglineThree": "Full-Stack Developer,",
   "headerTaglineFour": "Musician, and Foodie",
-  "profileSrc": "https://lh3.googleusercontent.com/pw/ADCreHfPxvy2MZDBspKgmr5dtkFlm22rXqRKlstRAcxx_sBNaAN5JGI3K9mJ_CAXdaH1CZJziwkO3uZC0bgCC-TM8q3D2WSB2JTmzLbpMnW_9ueV1ErVIVEF-1UnlvleOnshTo0MLVIG6-cSto9Qi8e_vrgMZmxC3Sfzt4yDb3rXtOSMhe0S0DU8AYxMc4-pQg_Y4PkbWjfOphyEAQ67MElxqW67pan03C84jp7ihM0Nc7E5gMplUh2GvTenaEStWkD7lj0CUSrIVh_Wh1DquYyOG19bNfXhEe-uF3K3trk9Ec2XkN8SGkdu1pDj3doUUal6bvxjIdA1Ym_HO8BldlzLMnyKu6wXx3cuuhiLuB1rP1eD5VGBAPHqQScfor7ZxDGSHly5-khA8GCkhB4yZWkjmY8AJhL5_zlS1NcZkfH-9L0koS3Ewtzej2wTKNLncw9GESkVStHf_nguj7vosyIhTmnjQ2pxb1gpRmv37edc3-Yb0C-O3ZuLXYPLfx7QN-QLf4mJIETLDUamPVXXuxNPF82PMM7vDYv2V3Cj7uvfsNw8JjoL6u01c-grOPMCc2uaOnHhYmWlUVdGbS2xNgrGwd_tjfoH9zNGF-If5zKmHNh23iwpLZVn5DhwPGK-0SKu5O7CihSUgA7eA97Ifv6aG_vFJzRtt9LqqAn4KZqTBlufpvYDvCtN-x0Tuoo6oSDyZrHlvmQJWmInV0jL_81gGBZqNEBIbtadiRkaEK--EdOm4KZDUtcECmakKrOduJyEEMhPv1-8l7o1423lrgmSjKWhm7vjhyrWeooIdoCDA_ppA31O2AGwIdAfWFUgVSBomU4mABw8myBt5seeIKsaxYeVbHpKEbKoqe7Gj_EvYv8DzQJ1uhrGgjbjJ4Kbxfuhao0Am8fTHh9w9blcpWlJP9jTlOsOLEVM4YGUDlXIaZ-ZkITprQCKuyK5rsUADVD06lVLOvHA6YVGPeXYMZnr5_TL4b6VeyZJVgPE3ZPVJR-Mblw=w1074-h1384-s-no-gm?authuser=0",
+  "profileSrc": "https://lh3.googleusercontent.com/pw/ADCreHcd1ebKebEa-bqV3WHiq0pePUb75Xxrm21od4eRRumn-Q5G1bEDxlGO--PVQ9J207-A107ZYPrlHUTWepXAlnO_Q5QWI62iPLb_GQznrl1yuK5EeAz1-8hIkvQtp3pPupaJCyjcWrs9X6uhikCDZLKXJVUBXdj7xllGQMUWdv-aZHdjULKKx_LQuE065qV7L_zAUGBPQFc5OtFoAtOclAUj2BaD4zRY0OAlBl08fk5JKtpePywp2uJtvgmcg_ECr6SW88e03HNT_62IbUYtCk9XJlGzRz2Uf9Xojgk085gV-o-eeF4G51unKxpGbwhowGCIUhZ0ltit3A7xOxcNyfuxC-pzZjn-Dj6xed1m745AL-tlh8qUe2vFDaAgdi7vQG6cP3_9H_h3BmLk9tRW4VabQRF8Newb8iOUoE3lWoukHmxwulVfoQPRKjo7V-f-dyD15esyCUvwGXigffWFIqDJtl13K4LHcabLQYApxDPOmf0BeYjce3lJ8lluhCKRwslc9kp-UdZm6C-ntfGRnp4Pv8zgNkZv5p3FS0pKwcU-Gcrs7KJ6kFfTE-wJsXJEX7IuCehqWPXX1OCFIxOoa7A9jPtb05N-B8-xNAzjgbKkE2qtAVMzGyLBvuWOPcE3dn-v_wiTkzhNGrCw0v1jNuS4y30gxTmLHB9wGFfN4T2cjUqM1EzpfTCLTylwBEGLbGKbnY2OBgvva2XHhWAxQH01QIKwiYm2VkXsTlMRlHBGmk44uMzeVgeWEdzzAmX1tIag7Nq1Efjbs1Wownx237_YIUGYCUtkXqOf8km-JtxMg0TH0VYmQB6It_fLRpmhhU9Tu_MibY_vuhSApOOwrzGAQMnYIOKAf6n8zSNrnrRhv7SVf9IuhYLI_PPt9_3Cuc2Va_3qSbpVcJLkAS2d3QV48oCfr-OIBXVY6TtSbqThRkOmPOLd-Y6ZWsCY0yg2ToW5F_8eb0Csp88eEFfpM6Zo7GzdiemV9DjgL3cQCM9q3zA=w1166-h1384-s-no-gm?authuser=0",
   "showCursor": false,
-  "showBlog": true,
+  "showBlog": false,
   "darkMode": true,
   "showResume": true,
   "socials": [
     {
       "id": "1",
-      "title": "Github",
+      "title": "GitHub",
       "link": "https://github.com/Kevinland123"
     },
     {
@@ -29,24 +29,24 @@
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Personal Website",
+      "description": "Crafted a dynamic and visually appealing personal website to not only showcase my evolving web development skills but also serve as a hub for presenting diverse projects. This endeavor enabled me to delve into the intricacies of web hosting and leverage the efficiency of Tailwind CSS for streamlined styling and responsiveness.",
+      "imageSrc": "https://lh3.googleusercontent.com/pw/ADCreHek3jxKcXq3NKQBiCFFbufXRvaleAwdAnUoLFh48Tf3jrC6V3fKfnidfA_Fdf2cE4_cczzelu5okmX1JLK3akHyErn-lB3M6e_leayA2mKyAFYYo8oaQj7t4V7p0A-FRVIjBp9LG08IemZ_kwbLR8VIk3J327NSMofHzNDIno7xiTNgohiM0BoBowFU5VijgKeC8tU-PYVsL_cvyIOaK_FQOcS0sieVZ1wzmN_Fa6VYaVWB3go12t02qf35ZtOuYcAXHuf1omuJ75kuVzjbmC910Ws9VXE0bSSStQ1AC8alzgLAsACJIxt4SIPl8r97alzARXYq8P3DwN7QECq4ptarpCStuijpoIf_ojTPrhK3pLK8kiiHHxzgn-ZnejZnpBMi2gbNZZ4GxfyVMS2-YLLVjXqVr5Zk8qwByPpHxQbMoy-HgpIhr-RzZiyrOh6ki0kHFyPBju1aMRbUKkNmBNpNBS93Shni6X-vj3GF6dHqCrSWq1ujZ3Y9BsO2ewNoWBDMJ6zz92jXPtFWLLdQ9FNFcRjYzacgCLhoohbQ5X44W_SeGYN58rJUPJ1-ei8CqxakAm0QmQ2yedO0kKiN3tXIPIysXCXSfG2keJVqJ5UBQ9SznyKAZUyBbzVvMN9cTWbXV4JIcA-LCDTORQC8p_MduItWQcECBHLESMhw2eTcvnrm5Om2D5C3Ag0O4oqbjNVFSyve4uiDYsU0IV6QWkx-lGJZjj18-LP6hsWlR2pAlR-sUzaEbY4S1QGKycTHIq3nZVTiKIA3t5DSGh9frJ9HyPUpncLdrudIYT4FI5_bHoLbs0durGmPWWWV9qBrQFN0dTIjZ5fZkXW8tVbUVpdcMPVElrvmMY2wlr7LjLvB-DwGquF9Sb_ivMDDugrK46vLJhM0gwVTFMUSgFqFLmkDRURUd0adHU-8BFk-LxMxn8JshySCTn6jV2V5SGxi-BOq4rcH7ogfDBefCku7ONislQXPgwz6iyqbjUDYfKeGmpo=w963-h1070-s-no-gm?authuser=0",
+      "url": "https://github.com/Kevinland123/PersonalWebsite"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "PuzzlePals",
+      "description": "Contributed significantly to both the front-end and computer vision aspects. On the front-end, I spearheaded the implementation of camera interactions and engaging pop-ups. Simultaneously, in the computer vision domain, I played a pivotal role in enhancing image aesthetics through background removal. This experience showcased my versatility and ability to seamlessly integrate across diverse project facets.",
+      "imageSrc": "https://user-images.githubusercontent.com/97307947/232864692-1ce990a9-bb69-4d86-ac3c-eec5f488a466.png",
+      "url": "https://github.com/stef405/make-skis"
     },
     {
-      "id": "6ffc068b-582f-4b65-9248-6e24005b0ea3",
-      "title": "New Project",
-      "description": "Web Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "id": "3",
+      "title": "PersonaGram",
+      "description": "Innovated and orchestrated the development of PersonaGram, a bespoke mystery gift box platform that curated personalized experiences for customers. Led the end-to-end development of the platform utilizing Flask, seamlessly integrating the Stripe API for secure and efficient payment processing. The implementation included the orchestration of a robust Postgres database hosted on AWS, ensuring optimal functionality and secure data storage. It has been discontinued as of December 2021.",
+      "imageSrc": "https://lh3.googleusercontent.com/pw/ADCreHcRG_2Hw_VPbsJDf5ECE6uXHBNEtQwHzQJ4kdgjJ8pOhQFd9IqwodRKys_PMEZ87YDeRqBfLunm4M2bG6tmUI8UWOYjgaAdoAT6JersG82JSEsbW2BYJsRW1d3uQISWOGuL__1jfe6KG869uqBo1W8rU5jxQ5DVTa6KR2Sx9KkSxCf8ttE2ApMVau_nG6BDcJ0E1YkJt0cMdAKqjwDE9ypvgabV8j2FuNRTAXCaTPOz53cf_mMdB-NIfZ5cjD8SJ1yy0nqgSWIAJO-5GeHTk2UkARW1iW7ilA2nhvZW2GtFAwO9Dt4HuLxmJnHdTs-y85ooVZnpNgIIAtLTzcojonoMV4A8rt7oUBTqWxUk999iJiQ0mfCHoE1G4Pdm2QsxJZECrbYDJwLDOx3sn5r2UECNWhtEHXAAVxhk167Dqs0sDz4MZzYcUrsSLO0Jp8c4XvHYDuXf36v8EspLt8yrJa2otgFYVjVb22kEB1chesRxTsw_obKhM3fUbqDyqTehwvewsz6JXkWtFoThEcWM9oBHUFA7ZXZ3wNpoyj8j_WZaJko07EYkZSC-BTCSn00ijHGmRTyivu2E44QMUMDOZhoc1h6NB16IzUSrQnC0ASeFpIbTgwOgzTjFWlqkqNqum9yZLjFpG3Asbmaf7muCOmzORE1a05kzPu6Nhft5RAWBvE1d8yPKRqF0jcrLTy4H7_FiaEvoUcrFAb_JqmBkK2UJqpL5N4LyQKrpjTXBJa_39YRBibg4Rv0B8Q5V6j0sy0zPM6PGE5usKW27zmE9hsGRbvOZB9VBaHJpSwH2VEd6HEC_qm3ybbuo48Np4T6_4M5nCsxP4eiKaKf_0PyaT0JUuhiKYIfVR0qOPUaQxHpk-6yMKJhqusY8xEhyZGaSne_TMpE8PFO3_K25YY1aTKBwnAwHSc7-8k8UCflKDvrfmfepayQ9hQ2qBDJjxXCq4_I0OKN7KFnH0WrlxEeEItU5rT9tPp-viaJAzQe58_nFZS8=w1058-h1044-s-no-gm?authuser=0",
+      "url": "https://github.com/Kevinland123/PersonaGram"
     }
   ],
   "services": [
@@ -108,8 +108,7 @@
         "company": "ZeroWaste.Org",
         "position": "Web Developer (Part Time)",
         "bullets": [
-          "Improved reachability of the web application by implementing SEO techniques and Google Analytics",
-          ""
+          "Improved reachability of the web application by implementing SEO techniques and Google Analytics"
         ]
       }
     ],
