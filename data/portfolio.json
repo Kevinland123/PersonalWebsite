@@ -4,6 +4,7 @@
   "headerTaglineTwo": "I'm Kevin Zhu",
   "headerTaglineThree": "Full-Stack Developer,",
   "headerTaglineFour": "Musician, and Foodie",
+  "profileSrc": "https://lh3.googleusercontent.com/pw/ADCreHfPxvy2MZDBspKgmr5dtkFlm22rXqRKlstRAcxx_sBNaAN5JGI3K9mJ_CAXdaH1CZJziwkO3uZC0bgCC-TM8q3D2WSB2JTmzLbpMnW_9ueV1ErVIVEF-1UnlvleOnshTo0MLVIG6-cSto9Qi8e_vrgMZmxC3Sfzt4yDb3rXtOSMhe0S0DU8AYxMc4-pQg_Y4PkbWjfOphyEAQ67MElxqW67pan03C84jp7ihM0Nc7E5gMplUh2GvTenaEStWkD7lj0CUSrIVh_Wh1DquYyOG19bNfXhEe-uF3K3trk9Ec2XkN8SGkdu1pDj3doUUal6bvxjIdA1Ym_HO8BldlzLMnyKu6wXx3cuuhiLuB1rP1eD5VGBAPHqQScfor7ZxDGSHly5-khA8GCkhB4yZWkjmY8AJhL5_zlS1NcZkfH-9L0koS3Ewtzej2wTKNLncw9GESkVStHf_nguj7vosyIhTmnjQ2pxb1gpRmv37edc3-Yb0C-O3ZuLXYPLfx7QN-QLf4mJIETLDUamPVXXuxNPF82PMM7vDYv2V3Cj7uvfsNw8JjoL6u01c-grOPMCc2uaOnHhYmWlUVdGbS2xNgrGwd_tjfoH9zNGF-If5zKmHNh23iwpLZVn5DhwPGK-0SKu5O7CihSUgA7eA97Ifv6aG_vFJzRtt9LqqAn4KZqTBlufpvYDvCtN-x0Tuoo6oSDyZrHlvmQJWmInV0jL_81gGBZqNEBIbtadiRkaEK--EdOm4KZDUtcECmakKrOduJyEEMhPv1-8l7o1423lrgmSjKWhm7vjhyrWeooIdoCDA_ppA31O2AGwIdAfWFUgVSBomU4mABw8myBt5seeIKsaxYeVbHpKEbKoqe7Gj_EvYv8DzQJ1uhrGgjbjJ4Kbxfuhao0Am8fTHh9w9blcpWlJP9jTlOsOLEVM4YGUDlXIaZ-ZkITprQCKuyK5rsUADVD06lVLOvHA6YVGPeXYMZnr5_TL4b6VeyZJVgPE3ZPVJR-Mblw=w1074-h1384-s-no-gm?authuser=0",
   "showCursor": false,
   "showBlog": true,
   "darkMode": true,
@@ -71,8 +72,8 @@
     }
   ],
   "resume": {
-    "tagline": "👋  I'm a software engineer, product designer.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "tagline": "👋  I'm a full-stack web developer who loves creating innovative product.",
+    "description": "With a strong background in full-stack development including my past internships and contributions to open-source projects in React and Python, I am ready to tackle challenging projects and make a global imapct.",
     "experiences": [
       {
         "id": "1",
