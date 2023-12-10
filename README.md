@@ -1,6 +1,11 @@
-### How To Use
+# Kevin Zhu's Website
 
-- Clone this repo
+## TODO:
+- Fix resume page on mobile
+- Fix nav bar on mobile
+- Add FridgeChef Project
+
+### How To Use
 - run `yarn`
 - `yarn dev`
 
