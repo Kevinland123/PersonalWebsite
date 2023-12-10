@@ -99,8 +99,8 @@ export default function Home() {
         {/* About */}
         <div className="flex laptop:mt-10 p-2 laptop:p-0" ref={aboutRef}>
           <p className="tablet:m-10 mt-2 text-lg laptop:text-2xl w-full laptop:w-3/5">
-            I'm an incoming Software Development Engineer at Amazon in the Detroit location
-            and a current Web Developer/Content Writer at <a className="underline" target="_blank" href="https://zerowaste.org/">Zero Waste</a>.
+            I am an incoming Software Development Engineer at Amazon in the Detroit location
+            and a current Web Developer/Content Writer at <a className="underline" rel="noreferrer" href="https://zerowaste.org/">Zero Waste</a>.
             I graduated with a B.S. in Computer Science and minors in Entrepreneurship and Music.<br /><br />
 
             During my time at Amazon as an SDE intern, I gained valuable experience as a <b>Web Developer</b>, further enhancing my
@@ -108,10 +108,10 @@ export default function Home() {
             contributions to open-source projects in React and Python, I am ready to tackle challenging
             projects and make a global imapct.<br /><br />
 
-            I'm a classically trained <b>musician</b> and have performed in various locations including China, California, and Latvia.
-            To continue my musical journey, I recently created a <a className="underline" target="_blank" href="https://www.tiktok.com/@projectorpianist?_t=8i05SbYzr5C&_r=1">TikTok</a> account
+            I am a classically trained <b>musician</b> and have performed in various locations including China, California, and Latvia.
+            To continue my musical journey, I recently created a <a className="underline" target="_blank" rel="noreferrer" href="https://www.tiktok.com/@projectorpianist?_t=8i05SbYzr5C&_r=1">TikTok</a> account
             posting various piano covers. I am also a <b>foodie</b> and love to try new foods and restaurants. You can find my reviews on Yelp,
-            Beli, or my bread-rating <a className="underline" target="_blank" href="https://www.instagram.com/kzeatsbread/?hl=en">Instagram</a> account.
+            Beli, or my bread-rating <a className="underline" target="_blank" rel="noreferrer" href="https://www.instagram.com/kzeatsbread/?hl=en">Instagram</a> account.
           </p>
           <div className="laptop:flex-shrink-0 laptop:w-2/5">
             <img
