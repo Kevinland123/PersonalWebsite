@@ -97,8 +97,8 @@ export default function Home() {
         </div>
 
         {/* About */}
-        <div className="flex laptop:mt-10 p-2 laptop:p-0" ref={aboutRef}>
-          <p className="tablet:m-10 mt-2 text-lg laptop:text-2xl w-full laptop:w-3/5">
+        <div className="flex flex-col laptop:flex-row mt-10 p-2 laptop:p-0" ref={aboutRef}>
+          <p className="m-5 laptop:m-10 text-lg laptop:text-2xl laptop:w-3/5">
             I am an incoming Software Development Engineer at Amazon in the Detroit location
             and a current Web Developer/Content Writer at <a className="underline" rel="noreferrer" href="https://zerowaste.org/">Zero Waste</a>.
             I graduated with a B.S. in Computer Science and minors in Entrepreneurship and Music.<br /><br />
@@ -113,14 +113,16 @@ export default function Home() {
             posting various piano covers. I am also a <b>foodie</b> and love to try new foods and restaurants. You can find my reviews on Yelp,
             Beli, or my bread-rating <a className="underline" target="_blank" rel="noreferrer" href="https://www.instagram.com/kzeatsbread/?hl=en">Instagram</a> account.
           </p>
-          <div className="laptop:flex-shrink-0 laptop:w-2/5">
+          <div className="flex-shrink-0 w-full laptop:w-2/5">
             <img
               src={data.profileSrc}
               alt="Kevin Zhu Profile Picture"
-              className="w-full h-auto"
+              className="w-full h-auto sm:mt-2"
             />
           </div>
         </div>
+
+
 
         {/* Projects */}
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
